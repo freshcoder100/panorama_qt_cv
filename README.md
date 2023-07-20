@@ -1,6 +1,6 @@
 # panorama_qt_cv
 # requirments:
-
+可以使用yaml文件或者txt文件导出环境
 python3.8
 pyqt5
 pysides2
