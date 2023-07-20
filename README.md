@@ -1,10 +1,10 @@
 # panorama_qt_cv
 # requirments:
-python3.8
-pyqt5
-pysides2
-opencv-python 4.8
-imutils 0.5.4
+python3.8\n
+pyqt5\n
+pysides2\n
+opencv-python 4.8\n
+imutils 0.5.4\n
 # use
 1.运行mainProgram.py文件
 2.设置工作目录
